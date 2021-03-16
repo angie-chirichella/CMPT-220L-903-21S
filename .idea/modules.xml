@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment 3/Assignment 3.iml" filepath="$PROJECT_DIR$/Assignments/Assignment 3/Assignment 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment 3 Solution/Assignment 3 Solution.iml" filepath="$PROJECT_DIR$/Assignments/Assignment 3 Solution/Assignment 3 Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CMPT-220L-903-21S.iml" filepath="$PROJECT_DIR$/.idea/CMPT-220L-903-21S.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickDemos/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/QuickDemos/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickDemos/IntellijDemo/IntellijDemo.iml" filepath="$PROJECT_DIR$/QuickDemos/IntellijDemo/IntellijDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickDemos/Person/Person.iml" filepath="$PROJECT_DIR$/QuickDemos/Person/Person.iml" />
+    </modules>
+  </component>
+</project>
